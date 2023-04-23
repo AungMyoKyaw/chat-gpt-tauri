@@ -4,6 +4,6 @@
 
 # Download
 
-> file size => 4.4 MB
+![File Size](https://img.shields.io/badge/size-4.4MB-green?style=flat-square)
 
-[Download](https://github.com/AungMyoKyaw/chat-gpt-tauri/releases)
+[Download](https://github.com/AungMyoKyaw/chat-gpt-tauri/releases/download/v0.0.1/TauriChatGPT_0.0.0_universal.dmg)
