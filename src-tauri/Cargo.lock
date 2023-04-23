@@ -2578,7 +2578,7 @@ dependencies = [
 
 [[package]]
 name = "tauri_chat_gpt"
-version = "0.0.0"
+version = "0.0.1"
 dependencies = [
  "serde",
  "serde_json",

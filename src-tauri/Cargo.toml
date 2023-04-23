@@ -1,6 +1,6 @@
 [package]
 name = "tauri_chat_gpt"
-version = "0.0.0"
+version = "0.0.1"
 description = " A desktop application built with the Tauri framework that embeds the ChatGPT website for seamless chat functionality"
 authors = ["Aung Myo Kyaw"]
 license = ""
