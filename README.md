@@ -4,4 +4,6 @@
 
 # Download
 
+> file size => 4.4 MB
+
 [Download](https://github.com/AungMyoKyaw/chat-gpt-tauri/releases)
