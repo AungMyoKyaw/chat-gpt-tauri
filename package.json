@@ -1,0 +1,13 @@
+{
+  "name": "chat-gpt-tauri",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri",
+    "build": "CI=true tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.2.3"
+  }
+}
