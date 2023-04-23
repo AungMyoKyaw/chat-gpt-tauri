@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "tauri": "tauri",
-    "build": "CI=true tauri build"
+    "build": "CI=true tauri build --target universal-apple-darwin"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.2.3"
